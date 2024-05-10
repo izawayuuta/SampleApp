@@ -1,4 +1,4 @@
-var output = 0
+var output = 5
 
 for i in 0...9 {
     print(output)
